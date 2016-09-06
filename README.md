@@ -20,3 +20,5 @@ Some cheatsheets I made.
 
 ![php apache php-extension](https://raw.githubusercontent.com/lingtalfi/visual_cheatsheets/master/php-apache-php_extension.jpg)
 
+![flexbox cheatsheet](https://raw.githubusercontent.com/lingtalfi/visual_cheatsheets/master/flexbox-cheatsheet.png)
+
